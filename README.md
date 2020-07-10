@@ -4,6 +4,7 @@ C++
 React js  
 
 
+
 ## EDUCATION 
 ### Maharaja Agrasen Institute of Technology,Rohini Sector 22,Delhi 34— Btech(CSE) 
 August  2018 - Present 
@@ -18,14 +19,16 @@ April 2015 - March 2016
 CGPA : 10 
 
 
+
 ## SKILLS 
-C++ (Intermediate) 
-C (Intermediate) 
-Node js (Intermediate) 
-HTML (Intermediate) 
-CSS (Intermediate) 
-Bootstrap (Intermediate) 
-React js (Intermediate) 
+C++ (Intermediate)                  
+C (Intermediate)                   
+Node js (Intermediate)                   
+HTML (Intermediate)                   
+CSS (Intermediate)                   
+Bootstrap (Intermediate)                   
+React js (Intermediate)                   
+
 
 
 ## PROJECTS 
@@ -40,6 +43,7 @@ I used Nodejs (for Backend),Html and Css (for Frontend), Mongodb(Database). In t
 
 ### Weather App
 CLI application that determines your current weather condition using  your current  IP address or  given location only through meta weather open  api . 
+ 
  
  
 ## LinkedIn profile 
