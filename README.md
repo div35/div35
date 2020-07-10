@@ -1,16 +1,46 @@
-### Hi there 👋
+### Trainings 
+C++  
+Web Development 
+React.js
 
-<!--
-**div35/div35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### EDUCATION 
+## Maharaja Agrasen Institute of Technology,Rohini Sector 22,Delhi 34— Btech(CSE) 
+August  2018 - Present 
+GPA : 8.4(In 1st sem) , 8.9(In 2nd sem)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kendriya Vidyalaya,Sainik Vihar,Delhi 34— 12th 
+April 2017 - March 2018 
+Percentage : 93.40% 
+ 
+## Kendriya Vidyalaya,Sainik Vihar,Delhi 34— 10th 
+April 2015 - March 2016 
+CGPA : 10 
+
+
+### SKILLS 
+C++ (Intermediate) 
+C (Intermediate) 
+Node js (Intermediate) 
+HTML (Intermediate) 
+CSS (Intermediate) 
+Bootstrap (Intermediate) 
+React js (Intermediate) 
+
+
+### PROJECTS 
+## ChatApp
+Group Chat application which is made using Javascript library socket.io(for real time communication) , Html with Mustache.js and Css(for frontend). In this we can create separate rooms and can chat with our friends with a feature to share your current location. Here we can also check who is connected currently to the chat room.      
+
+## Whiteboard
+Web application which is made using browsers CANVAS API and DOM. We can draw with different colors and adjust the thickness of our pencil, eraser, has the capability to undo and redo downloading the board, and upload any image we want. 
+ 
+## Pepersdev App
+I used Nodejs (for Backend),Html and Css (for Frontend), Mongodb(Database). In this,a user could sign up,login,and can buy any food plan he/she wants and then pay the amount .  
+
+## Weather App
+CLI application that determines your current weather condition using  your current  IP address or  given location only through meta weather open  api . 
+ 
+ 
+### LinkedIn profile 
+https://www.linkedin.com/in/divyaansh-papreja-99a115152 
