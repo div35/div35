@@ -1,7 +1,7 @@
 ## TRAININGS
+React.js
 Web Development    
 C++  
-React js  
 
 
 
@@ -32,6 +32,10 @@ React js (Intermediate)
 
 
 ## PROJECTS 
+### Pepersdev App
+I used Nodejs (for Backend), Html and Css (for Frontend), Mongodb(Database). In this, a user could sign up, login, and can buy any food plan he/she wants and then pay the amount.  
+https://github.com/div35/Foodapp-pepersdev--
+
 ### ChatApp
 Group Chat application which is made using Javascript library socket.io(for real time communication), Html with Mustache.js and Css(for frontend). In this we can create separate rooms and can chat with our friends with a feature to share your current location. Here we can also check who is connected currently to the chat room.      
 https://github.com/div35/Chat-app
@@ -39,10 +43,6 @@ https://github.com/div35/Chat-app
 ### Whiteboard
 Web application which is made using browsers CANVAS API and DOM. We can draw with different colors and adjust the thickness of our pencil, eraser, has the capability to undo and redo downloading the board, and upload any image we want. 
 https://github.com/div35/WhiteBoard
- 
-### Pepersdev App
-I used Nodejs (for Backend), Html and Css (for Frontend), Mongodb(Database). In this, a user could sign up, login, and can buy any food plan he/she wants and then pay the amount.  
-https://github.com/div35/Foodapp-pepersdev--
 
 ### Weather App
 CLI application that determines your current weather condition using  your current  IP address or  given location only through meta weather open api .                
