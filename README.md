@@ -52,11 +52,11 @@ C++ (Data Structures & Algorithms) [Pepcoding]
 
 
 ## SKILLS 
-C++ (Advanced)                            C (Advanced)                                                                                                             
-Javascript (Intermediate)                 HTML (Advanced)                                                                                                          
-Bootstrap (Intermediate)                  CSS (Advanced)                                                                                                           
-Node.js (Intermediate)                    Reactjs (Intermediate)                                                                                                  
-MongoDB                                   MySQL                                                                                                             
+C++ (Advanced),                            C (Advanced),                                                                                                           
+Javascript (Intermediate),                 HTML (Advanced),                                                                                                         
+Bootstrap (Intermediate),                  CSS (Advanced),                                                                                                        
+Node.js (Intermediate),                    Reactjs (Intermediate),                                                                                                
+MongoDB,                                   MySQL,                                                                                                             
 Firebase                                                                                                                                                        
                 
 
