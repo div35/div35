@@ -44,20 +44,20 @@ https://github.com/div35/Weather-App-CLI-Type-
 
 
 ## TRAININGS AND CERTIFICATIONS
-React - The Complete Guide [Udemy]
-Web Development (MERN Stack) [Pepcoding]
-C++ (Data Structures & Algorithms) [Pepcoding]
+React - The Complete Guide [Udemy]                                                                                                             
+Web Development (MERN Stack) [Pepcoding]                                                                                                             
+C++ (Data Structures & Algorithms) [Pepcoding]                                                                                                             
 
 
 
 
 ## SKILLS 
-C++ (Advanced)                            C (Advanced)
-Javascript (Intermediate)                 HTML (Advanced)
-Bootstrap (Intermediate)                  CSS (Advanced)
-Node.js (Intermediate)                    Reactjs (Intermediate)
-MongoDB                                   MySQL
-Firebase
+C++ (Advanced)                            C (Advanced)                                                                                                             
+Javascript (Intermediate)                 HTML (Advanced)                                                                                                          
+Bootstrap (Intermediate)                  CSS (Advanced)                                                                                                           
+Node.js (Intermediate)                    Reactjs (Intermediate)                                                                                                  
+MongoDB                                   MySQL                                                                                                             
+Firebase                                                                                                                                                        
                 
 
 
