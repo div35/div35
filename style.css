@@ -1,0 +1,202 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: #f0f0f0;
+}
+.resume-body {
+  display: flex;
+}
+
+.left-body,
+.right-body {
+  border: 1px solid #e6e6e6;
+  background-color: #ffffff;
+  width: 100%;
+  height: max-content;
+}
+
+.left-body {
+  max-width: 20%;
+  margin: 8px 4px 8px 8px;
+  padding: 0px 10px;
+}
+
+.profile_details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-body {
+  max-width: 80%;
+  margin: 8px 8px 8px 4px;
+  padding: 10px 20px;
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.profile_pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 32px 0px 40px 0px;
+}
+
+.profile_name {
+  font-size: 24px;
+}
+
+.profile_position {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 100;
+  color: #777;
+}
+
+hr {
+  margin: 20px 0px 20px 0px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+.details-part {
+  display: flex;
+  flex-direction: column;
+}
+
+.details {
+  margin: 8px;
+}
+
+.details > .icon {
+  margin: 8px 10px 8px 5%;
+}
+
+.details > * {
+  font-size: 0.9em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.profile-part {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.profile_icon {
+  width: 25px;
+  height: 25px;
+  margin: 0px 8px;
+}
+
+.title {
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 18px;
+  min-width: 100%;
+}
+
+.section {
+  margin-bottom: 24px;
+}
+
+.section-title {
+  color: #707070;
+}
+
+.section-title > .title,
+.section-title > .icon {
+  padding: 0 10px;
+}
+
+.section-data {
+  padding-left: 52px;
+}
+
+.section-data > hr {
+  margin: 10px 0px 10px 0px;
+}
+
+.section-description {
+  color: #333;
+}
+
+.experience-section {
+  border-width: 1px 0 0 0;
+  border-bottom: 1px solid #e6e6e6;
+  border-radius: 3px;
+  padding: 10px 0;
+}
+
+.position {
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.duration {
+  color: #777;
+  font-size: 12px;
+}
+
+.description {
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.desc-li {
+  margin-top: 6px;
+  color: rgb(63, 63, 63);
+}
+
+.experience-section > a {
+  color: rgb(58, 171, 200);
+}
+
+.experience-section:first-child {
+  padding-top: 100px;
+}
+
+.label {
+  display: inline-block;
+  background: #7eb0db;
+  color: white;
+  font-size: 0.9em;
+  padding: 5px;
+  border: 1px solid #357ebd;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 1200px) {
+  .resume-body {
+    flex-direction: column;
+  }
+  .left-body,
+  .right-body {
+    max-width: 100%;
+    margin: 8px;
+    width: auto;
+  }
+  .details-part {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .details {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .details-part {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
