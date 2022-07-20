@@ -1,6 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
+  line-height: 150%;
 }
 body {
   background-color: #f0f0f0;
@@ -61,6 +62,14 @@ hr {
   border-top: 1px solid #eee;
 }
 
+.section-data::before{
+  content: "";
+  border-bottom: 1px solid #eee;
+  width: 100%;
+  margin: 10px 0px;
+  display: block;
+}
+
 .details-part {
   display: flex;
   flex-direction: column;
@@ -70,7 +79,7 @@ hr {
   margin: 8px;
 }
 
-.details > .icon {
+.details  .icon {
   margin: 8px 10px 8px 5%;
 }
 
@@ -89,8 +98,8 @@ a {
 }
 
 .profile_icon {
-  width: 25px;
-  height: 25px;
+  font: 30px;
+  color: black;
   margin: 0px 8px;
 }
 
@@ -160,7 +169,11 @@ a {
 }
 
 .experience-section:first-child {
-  padding-top: 100px;
+  padding-top: 0px;
+}
+
+.experience-section:last-child{
+  border-bottom: 0px;
 }
 
 .label {
@@ -198,5 +211,6 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
   }
 }
